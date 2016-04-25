@@ -42,7 +42,6 @@ a {
     border-color: #3F51B5;
 }
 #bs-example-navbar-collapse-1, .collapse navbar-collapse{
-  /*border: 4px solid green;*/
   background-color: #3F51B5;
 }
 .container-fluid {
@@ -50,4 +49,15 @@ a {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+}
+body{
+  font-family: "Open Sans", "Alef Hebrew", helvetica, sans-serif;
+  font-weight: lighter;
+}
+h1{
+  color: #FFBC2F;
+}
+img{
+  height: 50vh;
+  width: 10vw;
 }
