@@ -16,10 +16,10 @@
 }
 .navbar-inverse {
     background-color: #3F51B5;
-    border-color: #080808;
+    border-color: #3F51B5;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-  border-color: #000551;
+  border-color: #3F51B5;
 }
 .navbar-default .navbar-nav>li>a {
     color: #f3aa15;
@@ -32,7 +32,7 @@
     position: relative;
     min-height: 50px;
     margin-bottom: 20px;
-    border: 1px solid #000551;
+    border: 1px solid #3F51B5;
     border-radius: 0px !important;
 }
 a {
@@ -46,7 +46,7 @@ a {
   background-color: #3F51B5;
 }
 .container-fluid {
-     padding-right: 0px; 
+     padding-right: 0px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
