@@ -61,5 +61,11 @@ h1{
 }
 img{
   /*height: 50vh;*/
-  width: 100%;
+  width: 80%;
+}
+.howTo{
+  font-size: 1.4em;
+  padding-left: 10%;
+  padding-right: 10%;
+  /*letter-spacing: 2px;*/
 }
