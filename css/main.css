@@ -59,13 +59,19 @@ h1{
   color: rgb(255, 188, 49);
   /*color: #FFBC2F;*/
 }
+
 img{
   /*height: 50vh;*/
   width: 80%;
 }
+hr {
+  border-top: 1px solid black;
+}
+
 .howTo{
   font-size: 1.4em;
   padding-left: 10%;
   padding-right: 10%;
+  color: white;
   /*letter-spacing: 2px;*/
 }
