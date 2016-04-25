@@ -53,6 +53,7 @@ a {
 body{
   font-family: "Open Sans", "Alef Hebrew", helvetica, sans-serif;
   font-weight: lighter;
+  background-color: #808080;
 }
 h1{
   color: black;
