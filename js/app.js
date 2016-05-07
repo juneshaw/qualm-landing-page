@@ -10,5 +10,9 @@ var app = angular.module('qualm-landing-pageApp', ['ngRoute'])
                     templateUrl: '../partials/tech.html',
                     controller: 'TechController'
                 })
+                .when('/about', {
+                  templateUrl: '../partials/about.html',
+                  controller: 'MainController'
+                })
                 .otherwise({redirectTo : '/'})
         })
